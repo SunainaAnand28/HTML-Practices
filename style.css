@@ -1,0 +1,20 @@
+body{
+    margin: 0;
+    padding: 0;
+    background-color: rgb(220, 219, 247);
+}
+
+h1{
+    color: rgb(83, 16, 146);
+}
+ nav ul {
+    list-style: none;
+    display: flex;
+    text-align: end;
+    padding: 10px;
+    background-color: rgb(172, 136, 205);  
+ }
+
+ li{
+    padding-right: 40px;
+ }
